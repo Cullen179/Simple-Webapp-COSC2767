@@ -12,7 +12,7 @@
   </head>
   <body>
 
-    <!-- The content of the website starts here now test! -->
+    <!-- The content of the website starts here now tes1t! -->
     <div class="jumbotron">
       <title>Hello DevOps Students!</title>
       <h1 class="display-4">[Live Coding in Lecture, Hi Class] Testing 2!</h1>
