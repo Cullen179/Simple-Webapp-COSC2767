@@ -15,7 +15,7 @@
     <!-- The content of the website starts here now tes1t! -->
     <div class="jumbotron">
       <title>Hello123 DevOps Students!</title>
-      <h1 class="display-4">[Live Coding 2sddavfgasdf in Lecture, Hi Class] Testing 123!</h1>
+      <h1 class="display-4">I'm Do Tung Lam s3963286 from DevOPs final exam</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
       <hr class="my-4">
